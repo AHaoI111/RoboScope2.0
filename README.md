@@ -1,5 +1,7 @@
 # RoboScope2.0
-<img width="590" alt="roboscope2 0" src="https://github.com/user-attachments/assets/71d18200-9fdb-4b22-9197-4831969a89e7" />
+<p align="center">
+  <img width="590" alt="roboscope2 0" src="https://github.com/user-attachments/assets/71d18200-9fdb-4b22-9197-4831969a89e7" />
+</p>
 
 RoboScope2.0 is a modular automated microscope designed to accelerate artificial intelligence. It introduces a new interface compared to the first project, enhancing the system's flexibility and performance. This updated version builds on the foundation of the previous project but offers a more advanced and efficient way to interact with the microscope's functionality.
 
