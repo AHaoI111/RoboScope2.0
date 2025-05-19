@@ -1,0 +1,111 @@
+Camera:
+  high:
+    RotateImageAnglehigh: 0
+    wbhigh:
+      B: 1.28515625
+      G: 1.0
+      R: 1.359375
+    高倍标定: 3.6955e-05
+  low:
+    RotateImageAnglelow: 180
+    wblow:
+      B: 1.48828125
+      G: 1.0
+      R: 2.140625
+    低倍标定: 0.00127129526643937
+  single:
+    RotateImageAngleonly: 90
+    wbone:
+      B: 1.08984375
+      G: 1.0
+      R: 1.828125
+    单镜头标定: 0.0003125
+Device:
+  cameranumber: 2
+  firmware: V2
+  loaderflage: true
+  microscope: true
+  sn: roboscopetest001
+ImageSaver:
+  correction_model: 1
+  imagequailty: 100
+  imagestitchsize: 320
+  maxworkers: 3
+  pixelformat: png
+  queuenumber: 625
+  savepath: Z:/nfs_disk
+Loader:
+  box1startxz:
+    x: 155.2
+    z: 110.92
+  box2startxz:
+    x: 205.2
+    z: 110.92
+  box3startxz:
+    x: 255.2
+    z: 110.92
+  box4startxz:
+    x: 305.2
+    z: 110.92
+  boxzgap: 4.52
+  cameraexposure: -4
+  oilflag: false
+  slidepush: -94
+  slidereturn: -1
+  xavoid: 150
+  xend: 0
+  zcamera: 60.0
+  zend: 110.45
+  zlift: 4.0
+  串口: COM21
+  滴油器串口: COM24
+Microscope:
+  high:
+    对焦经验值高倍: 5.1
+    高倍倍数: 50
+    高倍对焦分辨率: 0.003
+    高倍对焦方式: 3
+    高倍对焦步数: 100
+    高倍扫描中心xy:
+      x: 49.3228
+      y: 34.7128
+    高倍扫描区域:
+      h: 4
+      w: 4
+    高倍隔点对焦步长: 1
+  low:
+    低倍倍数: 5
+    低倍对焦分辨率: 0.01
+    低倍对焦方式: 3
+    低倍对焦步数: 100
+    低倍扫描中心xy:
+      x: 12.0745
+      y: 26.8096
+    低倍扫描区域:
+      h: 5
+      w: 5
+    低倍隔点对焦步长: 5
+    对焦经验值低倍: 4.8
+  single:
+    单镜头倍数: 20
+    单镜头对焦分辨率: 0.003
+    单镜头对焦方式: 1
+    单镜头对焦步数: 40
+    单镜头扫描中心xy:
+      x: 11.1559
+      y: 34.8669
+    单镜头扫描区域:
+      h: 4
+      w: 4
+    单镜头隔点对焦步长: 1
+    对焦经验值单镜头: 3.80206
+  sys:
+    lensgapx: -35.7109
+    lensgapy: -0.1639
+    scanmode: false
+    scanmultiple: low
+    xend: 27.254
+    yend: 37.441
+    串口: 12769200
+    当前系统: double
+
